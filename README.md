@@ -1,12 +1,12 @@
 <p align="center">
-	 <a><img src="http://i.imgur.com/V62Fgj3.png" width="100%"></a>
+	 <a><img src="https://i.imgur.com/OECFrtR.png" width="100%"></a>
 </p>
 
 # 👦 À propos de moi
 
 <br>
 
-# 📚🔧 Compétences
+# 🔧 Compétences
 
 <br>
 
